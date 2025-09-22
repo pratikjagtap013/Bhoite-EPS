@@ -1,3 +1,39 @@
+/* Contact Page: Name Box */
+.my-name-box {
+  background: #fef9e7;
+  border-left: 5px solid #f1c40f;
+  padding: 18px 24px;
+  margin-bottom: 28px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(44, 62, 80, 0.07);
+  text-align: left;
+}
+.my-name-box h2 {
+  color: #b7950b;
+  margin-bottom: 8px;
+}
+.my-name-box p {
+  font-size: 1.2em;
+  color: #7d6608;
+  margin: 0;
+}
+/* Contact Page: My Info Box */
+.my-info {
+  background: #e8f8f5;
+  border-left: 5px solid #1abc9c;
+  padding: 18px 24px;
+  margin-bottom: 28px;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(44, 62, 80, 0.07);
+}
+.my-info p {
+  margin: 0 0 8px 0;
+  font-size: 1.08em;
+  color: #145a32;
+}
+.my-info strong {
+  color: #117864;
+}
 /* Reset */
 * {
   margin: 0;
