@@ -154,6 +154,24 @@ footer {
   main {
     margin: 20px;
   }
+
+  .my-info,
+  .my-name-box {
+    padding: 12px 10px;
+    font-size: 1em;
+    margin-bottom: 18px;
+    border-radius: 6px;
+  }
+  .my-name-box h2 {
+    font-size: 1.1em;
+    margin-bottom: 6px;
+  }
+  .my-name-box p {
+    font-size: 1em;
+  }
+  .my-info p {
+    font-size: 1em;
+  }
 }
 /* Services Section */
 .services {
