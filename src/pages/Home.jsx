@@ -2,7 +2,7 @@
 import React from "react";
 import landing1 from "../assets/landing-page.jpeg";
 import landing2 from "../assets/landing-page-2.jpeg";
-import logoNavbar from "../assets/logo-navbar.jpeg";
+// import logoNavbar from "../assets/logo-navbar.jpeg";
 
 import "../App.css";
 

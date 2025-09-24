@@ -7,15 +7,15 @@ function Contact() {
 
       {/* Founder Info */}
       <div className="my-name-box">
-        <h2>John Doe</h2>
+        <h2>Bhoite Brother's</h2>
         <p>Founder & CEO</p>
       </div>
 
       {/* Contact Info */}
       <div className="my-info">
-        <p><strong>Email:</strong> john@example.com</p>
-        <p><strong>Phone:</strong> +91 1234567890</p>
-        <p><strong>Address:</strong> 123, React Street, Web City</p>
+        <p><strong>Email:</strong>bhoiteepstech@gmail.com </p>
+        <p><strong>Phone:</strong> +91 7410100482</p>
+        <p><strong>Address:</strong> Satara, Maharashtra</p>
       </div>
 
       {/* Contact Form */}
