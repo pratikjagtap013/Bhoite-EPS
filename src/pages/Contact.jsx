@@ -8,7 +8,7 @@ function Contact() {
       {/* Founder Info */}
       <div className="my-name-box">
         <h2>BHOITE EPS TECH INNOVATIONS</h2>
-        // <p>Founder & CEO</p>
+        {/* <p>Founder & CEO</p> */}
       </div> 
 
       {/* Contact Info */}
