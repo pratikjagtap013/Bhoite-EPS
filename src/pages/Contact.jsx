@@ -6,14 +6,14 @@ function Contact() {
       <h1>Contact Us</h1>
 
       {/* Founder Info */}
-      {/* <div className="my-name-box">
+      <div className="my-name-box">
         <h2>BHOITE EPS TECH INNOVATIONS</h2>
         // <p>Founder & CEO</p>
-      </div> */}
+      </div> 
 
       {/* Contact Info */}
       <div className="my-info">
-        <p><strong>Email:</strong>info@bhoiteepstech.com</p>
+        <p><strong>Email:</strong> info@bhoiteepstech.com </p>
         <p><strong>Phone:</strong> +91 9309957577</p>
         <p><strong>Address:</strong> 102, Green Springs, Wai, Satara</p>
       </div>
