@@ -6,16 +6,16 @@ function Contact() {
       <h1>Contact Us</h1>
 
       {/* Founder Info */}
-      <div className="my-name-box">
-        <h2>Bhoite Brother's</h2>
-        <p>Founder & CEO</p>
-      </div>
+      {/* <div className="my-name-box">
+        <h2>BHOITE EPS TECH INNOVATIONS</h2>
+        // <p>Founder & CEO</p>
+      </div> */}
 
       {/* Contact Info */}
       <div className="my-info">
-        <p><strong>Email:</strong>bhoiteepstech@gmail.com </p>
-        <p><strong>Phone:</strong> +91 7410100482</p>
-        <p><strong>Address:</strong> Satara, Maharashtra</p>
+        <p><strong>Email:</strong>info@bhoiteepstech.com</p>
+        <p><strong>Phone:</strong> +91 9309957577</p>
+        <p><strong>Address:</strong> 102, Green Springs, Wai, Satara</p>
       </div>
 
       {/* Contact Form */}
