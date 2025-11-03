@@ -1,4 +1,3 @@
-
 import React from "react";
 import landing1 from "../assets/landing-page.jpeg";
 import landing2 from "../assets/landing-page-2.jpeg";
@@ -6,16 +5,20 @@ import landing2 from "../assets/landing-page-2.jpeg";
 
 import "../App.css";
 
-
 function Home() {
   return (
     <div className="home-container">
+      <h1>Bhoite EPS Tech Innovations</h1>
       <section className="hero-section split-hero">
         <div className="hero-text">
-          <h1>Bhoite EPS Tech Innovations</h1>
-          <p className="eps-tagline">Empowering Progress with Smart EPS Solutions</p>
+          <p className="eps-tagline">
+            Empowering Progress with Smart EPS Solutions
+          </p>
           <div className="eps-info">
-            Bhoite EPS is a leader in innovative Expanded Polystyrene (EPS) technology, delivering sustainable, lightweight, and high-performance solutions for construction, packaging, and insulation. Our mission is to drive efficiency and eco-friendliness in every project.<br /><br />
+            BHOITE EPS TECH INNOVATIONS LLP, established in 2025, manufactures
+            flame-retardant Expanded Polystyrene (EPS) panels for construction
+            and packaging applications. <br />
+            <br />
             <strong>Why Choose Bhoite EPS?</strong>
             <ul className="eps-features">
               <li>Advanced EPS manufacturing for diverse industries</li>
