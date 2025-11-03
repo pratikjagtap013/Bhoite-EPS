@@ -22,7 +22,7 @@ function App() {
           </Routes>
         </main>
         <footer>
-          <p>&copy; 2025 My Website</p>
+          <p>&copy; Bhoite EPS Tech Innovations</p>
         </footer>
       </div>
     </Router>
